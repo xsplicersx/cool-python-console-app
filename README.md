@@ -9,6 +9,6 @@ to run the python script open terminal an type "python" then the path to the fil
 
 
 (example)
-    python /users/bob/desktop/hash.pyit will be different for you, unless yur name is bob and you saved the file on your desktop lol.
+    python /users/bob/desktop/hash.py --- it will be different for you, unless yur name is bob and you saved the file on your desktop lol.
 
 
