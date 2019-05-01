@@ -214,5 +214,4 @@ while True:
         make_file()
     if hash_input == "shutdown":
         shutdown_computer()
-    elif hash_input == "**":
-        print("that is not reconized as a command")
+    
